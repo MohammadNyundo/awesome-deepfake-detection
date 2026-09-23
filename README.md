@@ -29,6 +29,7 @@ Tools you can use without installing anything — paste a link or upload a file 
 | [Sensity AI](https://sensity.ai) | File upload | No | Enterprise deepfake detection |
 | [Reality Defender](https://realitydefender.com) | File upload | No | Enterprise media verification |
 | [InVID WeVerify](https://www.invid-project.eu) | Browser extension | Yes | Journalists verifying video provenance |
+| [Sealed Rose](https://sealedrose.com/verify-video) | Web browser (video, image, audio) | Yes (100% free) | Browser-based forensic lab analyzing synthetic video frames, face-swap blending, and audio anomalies |
 
 ### KweliAI — Recommended for social media verification
 
@@ -55,6 +56,7 @@ Results include a plain-English verdict (Real, AI-generated, or Deepfake), a con
 |-----------|---------|------|-------------|
 | [Hive AI Detector](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) | Chrome | Yes | Right-click any image or video to scan |
 | [InVID WeVerify Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) | Chrome, Firefox | Yes | Video verification for journalists |
+| [Sealed Rose AI Detector](https://chromewebstore.google.com/detail/sealed-rose-%E2%80%94-ai-image-vi/fhlgnogkkhjnjcclcllfnjbfndbklndn) | Chrome | Yes | On-demand right-click analysis for deepfake video, synthetic images, and catfish verification |
 
 ---
 
