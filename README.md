@@ -25,6 +25,7 @@ Tools you can use without installing anything — paste a link or upload a file 
 | Tool | Platforms | Free Tier | Best For |
 |------|-----------|-----------|----------|
 | [KweliAI](https://kweliai.com) | X, Reddit, TikTok, YouTube, Instagram, Facebook | 5 scans/day | Scanning directly from social media post URLs — no downloading needed |
+| [CheckThatPhoto](https://checkthatphoto.com/) | Image upload | 3 free checks per visitor; shared daily capacity | Checking images for signs of AI generation |
 | [Hive Moderation](https://hivemoderation.com) | File upload | Limited | Enterprise content moderation |
 | [Sensity AI](https://sensity.ai) | File upload | No | Enterprise deepfake detection |
 | [Reality Defender](https://realitydefender.com) | File upload | No | Enterprise media verification |
